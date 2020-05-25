@@ -14,7 +14,7 @@ import { cleanFolds } from "./common/fold";
 
 let WORKING_DIRECTORY = __dirname;
 
-Commander.version("v1.0.0");
+Commander.version("v1.0.3");
 Commander.command("init")
   .description("intializes current directory for folding")
   .action(() => Init(WORKING_DIRECTORY));

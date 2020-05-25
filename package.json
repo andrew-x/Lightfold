@@ -1,7 +1,21 @@
 {
   "name": "lightfold",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "lightweight scaffolding and archiving utility CLI.",
+  "keywords": [
+    "scaffold",
+    "scaffolding",
+    "archive",
+    "archiving",
+    "template",
+    "templating",
+    "lightweight",
+    "generator",
+    "code",
+    "utility",
+    "cli",
+    "yeoman"
+  ],
   "main": "index.js",
   "author": "Andrew Xia <me@andrewxia.com> (https://andrewxia.com)",
   "license": "GNU General Public License v3.0",
