@@ -1,0 +1,22 @@
+{
+  "name": "lightfold",
+  "version": "1.0.0",
+  "description": "lightweight scaffolding and archiving utility CLI.",
+  "main": "index.js",
+  "author": "Andrew Xia",
+  "license": "GNU General Public License v3.0",
+  "dependencies": {
+    "adm-zip": "^0.4.14",
+    "chalk": "^4.0.0",
+    "commander": "^5.1.0",
+    "esm": "^3.2.25",
+    "fs-extra": "^9.0.0",
+    "inquirer": "^7.1.0",
+    "moment": "^2.25.3",
+    "node-emoji": "^1.10.0",
+    "rimraf": "^3.0.2"
+  },
+  "bin": {
+    "lfold": "bin/lfold"
+  }
+}

@@ -1,0 +1,1 @@
+{"name":"bare-react-app","description":"a bare bones version of create-react-app","ignore":["lightfold.json","node_modules","package-lock.json"],"version":"0.0.1","generator":"lightfold-generator"}

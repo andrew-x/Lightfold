@@ -1,0 +1,11 @@
+{
+  "name": "lightfold-generator",
+  "version": "0.0.1",
+  "description": "a generator for a lightfold fold",
+  "license": "MIT",
+  "repository": {},
+  "dependencies": {
+    "handlebars": "^4.7.6",
+    "inquirer": "^7.1.0"
+  }
+}

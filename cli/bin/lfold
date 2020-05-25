@@ -1,0 +1,4 @@
+#!/usr/bin/env node
+
+require = require("esm")(module /*, options*/);
+require(`${__dirname}/../src/index`).cli(process.argv, process.cwd());
