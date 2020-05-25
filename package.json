@@ -1,10 +1,16 @@
 {
   "name": "lightfold",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "lightweight scaffolding and archiving utility CLI.",
   "main": "index.js",
-  "author": "Andrew Xia",
+  "author": "Andrew Xia <me@andrewxia.com> (https://andrewxia.com)",
   "license": "GNU General Public License v3.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andrew-x/Lightfold"
+  },
+  "homepage": "https://github.com/andrew-x/Lightfold",
+  "bugs": "https://github.com/andrew-x/Lightfold/issues",
   "dependencies": {
     "adm-zip": "^0.4.14",
     "chalk": "^4.0.0",
