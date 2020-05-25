@@ -1,6 +1,6 @@
-<div style="text-align: center">
+<p style="text-align: center;" align="center">
   <img src="./logo.png"/>
-</div>
+</p>
 
 # Lightfold - lightweight scaffolding and archiving tool.
 
